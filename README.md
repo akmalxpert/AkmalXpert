@@ -9,8 +9,8 @@
 
 ## 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sah2020&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sah2020&hide_border=false" height="180px"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalxpert&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmalxpert&hide_border=false" height="180px"><br><br>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
